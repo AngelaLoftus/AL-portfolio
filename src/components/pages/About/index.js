@@ -1,10 +1,11 @@
 import React from "react";
+import "./style.css";
 
 const About = () => (
   <div>
     <h1>About Page</h1>
-    <div>
-      <img src = "https://lh3.googleusercontent.com/cIs_dLER9r4kzkAOYd1P-BgXT-PNUeMWpsubV-aFrT74Vw2KfGB_ZftDmH2LyRiZ6SYvwVTG6YZ6vhkOIhlgCTc5JHE-PkIgyLTZ7t8sKjV4BWBOahGdAF0VgZwSg1XgBYOXEEo8fqegHaKe6EiSLrw91TtmOIPhQyCDShhG9xlPnKOro6VJ20GPycEu0S-XLNYrvvIgL4-JCXERm7FaQimzsn9c2dQjhIccdphPHqsbuUSMKDgPfGxDkBln4-u_VXe7hpZ5B-6rDBoLWFx-9tRfj8RoPUu0NgDq8X6rwwRg8zZR6kKVJse-eGagaqOHK8woiBLdYavt5PwNv3Tf6cL-hsMSLOXIYGzMg-CsQadW44sEbCUk7zweE-B3N9SLj8xY3rt1ZzHV_mysawzWSZZ5Yp97FHGhXFOyrWrF-IpsMRdVTa-AuBA9PWkUopu2boE9rN7B5vlm0nKem7z6_UWSb0P4QXxpVkooIyTyu-f2H9xJmtho-hL2IHe9PafB9nej3WsUQBxkWERH-zCm8PG4obzpQwfAueuCwpsZigKmZUxC6Wzs2wrwoT_66j8flJ6U__IUd6Jg6R-Z0XiYU97_VvFilS0Hyyypoqan-ehQR4gs6WkIIEJ0nUdmBeF3NMmAzLxuOsq5I3Usz-vs05cwRdR8qd09BPl7__PnLSg209KIZvh06xtliIVyZHP6-6aqVWau9euhMtYx5ih-AaG7Sg=w417-h880-no?authuser=0" alt=""></img>
+    <div class = "box">
+      <img src = "https://loftus-portfolio.s3.us-east-2.amazonaws.com/angela-loftus.jpg?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMiJHMEUCIEgfVX71uy07%2FNtW1ka3mvjdaCzXAxp1znmMgXPV4pRDAiEAh3YW0CT%2B2ms9KMyG6Opu2lzT3ankm6XoM6o7ZXjSjtgq5AIITBAAGgw0MTE3ODQwODEyMTgiDIFcV%2FDpgxFhtx7C%2BCrBAug4D7pAkAODiC6gs8zRDHUe7lS%2F8WHYc4MfRofSK3gvdwxn8fx8zERO7ZLJ84%2BofbHDWAJ5Ec%2FJoZ5vkYI1Vb3h6G%2FFpuRiS2dA3dcoSu9mXxlWsV8Zqzjuk%2Bfq8wDbNu258IFVTPxYFwXA%2BDLOMCt3KavI2YJJtp5Z46G0C4UnoY%2B6s8kgAjgKXHlYdfpWW3Tkyu9Fjw5QXYjVv0TWA%2B8tskLw73JKrhOb%2FzDx7qfKLNYK9NvN%2FtYAxAQYDhGUF3ehBG0Bkj4%2B4L9vkK09RVWoi5PjiXBqbtojOoOrS6%2F9JBx1h8qcTkjvgVyW428w95PV6JM%2BjWjcOaBmbJO0S40QJTwCYEpSrk0loxHio1bxngLciJ0Gz%2Bo6lH8%2BHqkaXo7CO2fmRL0NSD%2FsPuHDQU0%2Bpkk0uXHtOJCPnRrJRA3dsDDns7aRBjqzAmhDpkBDy8a2bcUQBWtvatNmDqJ6x60Or9KpJbkct2pH9IG14Hto5Pc3IjfWT7MiRwXIs7AiV57g1q%2FS%2B%2FHwXG%2F6Iy6L%2BT3%2BKirLIjImvzpzzfox6cfYzbKZ7w%2BihQST3SthgMDMWUWpBP7B7u5yrkiKgdqElBBwmHaSYL9G4bZnKKsimOFtkp%2FZBikVHDwQiftH%2FRzuZIGkXKkCoGsAlq7%2Fd4DdMW81v7LQjs%2Fhd2ZS7nugtVUK0fGeKCBvsGL7%2FQ7AZjdkr6rL%2BpnpZshpWl7QoaE9jww1SW5L1pz%2FvL5%2FxvkGx1COTI%2B4BX5OiGKINPXvcjngzLT%2Bu44zTB2E%2FfeCQA0QJrSJc%2BaByP4aPrK8YhoRQqbLrs8JFMRi8vP2cvLKo07ZACPFBGJ%2B1vuCHcsq8%2FE%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20220313T185956Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAV7YB6N5BFK6V4THX%2F20220313%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Signature=3143b21e69cf735eb1c7a4d401bf9677bcec2726840dfef45efc35edfe3ad87a" alt=""></img>
     </div>
     <div>
       <p>

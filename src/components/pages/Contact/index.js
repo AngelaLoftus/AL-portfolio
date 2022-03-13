@@ -61,6 +61,10 @@ function Contact() {
 
   return (
     <section>
+      <h2>Email: angelaloftus@yahoo.com</h2>
+      <h2>Phone Number: (512) 317-4554</h2>
+     <h2>LinkedIn: https://www.linkedin.com/in/angela-l-701856215/</h2>
+    <h2>Github: https://github.com/AngelaLoftus</h2>
       <h1 data-testid="h1tag">Contact me</h1>
       <form id="contact-form" onSubmit={handleSubmit}>
         <div>
